@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+aioboto3
+mangum
+sqlalchemy[asyncio]
+asyncpg
+httpx
+python-dotenv
