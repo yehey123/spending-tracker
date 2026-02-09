@@ -1,5 +1,5 @@
 # Financial State Engine (Spending Tracker)
-> A Domain-Driven Design (DDD) approach to personal financial sovereignty.
+> A Domain-Driven Design (DDD) approach to personal financial responsibility.
 
 ## 🏗️ Architecture
 This is a demonstration of modern Backend Engineering principles applied to financial data management. It moves away from "CRUD-style" apps toward a strict **Domain Model** that handles complex credit states and NAFFL data structures.
