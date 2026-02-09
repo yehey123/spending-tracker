@@ -14,4 +14,4 @@ This is a demonstration of modern Backend Engineering principles applied to fina
 * **Cloud Native:** Designed for deployment on AWS, utilizing LocalStack for local development of S3 and DynamoDB integrations.
 
 ## 🚧 Status
-**Active Development:** Refining the core domain logic and credit state transitions.
+**Active Development:** Designing the core domain logic and credit state transitions.
